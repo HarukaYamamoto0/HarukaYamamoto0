@@ -46,8 +46,6 @@ Let me introduce myself, my real name is Albert, I've been programming for about
 
 - [x] Reformulate the Readmes of all my projects (in progress)
 - [x] Linko, a link shortener app
-- [ ] A functional model of Infisical
-- [ ] A cloud-based .env file manager
 - [ ] Return to Locart development 
 - [ ] Jesterly, Meme bot for discord
 - [ ] an app like TikTok, but for memes, which will share the same system as Jesterly
