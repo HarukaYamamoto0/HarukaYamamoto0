@@ -6,8 +6,8 @@ Let me introduce myself, my real name is Albert, I've been programming for about
 
 <div style="display:flex;justify-content:center;">
   <a href="https://github.com/HarukaYamamoto0" target="_blank">
-  <img style="margin:2px;" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HarukaYamamoto0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img  height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HarukaYamamoto0&layout=compact&langs_count=7&theme=github_dark"/>
+  <img style="margin:2px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=HarukaYamamoto0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarukaYamamoto0&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <!-- ## 😶‍🌫️ My social networks:<div> 
