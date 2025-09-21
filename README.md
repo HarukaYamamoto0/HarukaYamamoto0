@@ -1,58 +1,52 @@
-# Welcome to my profile! 🎉
+# 👋 Hello kind person
 
-Let me introduce myself, my real name is Albert, I've been programming for about 4 years, I'm fluent in Javascript, I have more affinity with backend, but I'm always learning new technologies and I'm currently studying Android development with compose.
+I’m **Albert**, but most people online know me as **Haruka** or **HarukaYamamoto0**.  
+I’m a 19-year-old developer who enjoys turning caffeine into code and ideas into software.  
+Passionate about **Kotlin**, curious about **web apps**, and obsessed with building tools that make life a little easier (or at least more fun).
 
-## My performance lately 💪
+## 🌟 Featured Projects
 
-<div style="display:flex;justify-content:center;">
-  <a href="https://github.com/HarukaYamamoto0" target="_blank">
-  <img style="margin:2px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=HarukaYamamoto0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarukaYamamoto0&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+- **[tabnews-app](https://github.com/HarukaYamamoto0/tabnews-app)** — A faithful TabNews client; used to explore Kotlin Multiplatform and push UI behavior.  
+- **[alcyone](https://github.com/HarukaYamamoto0/alcyone)** — My attempt at the Discord bot I always wanted: smart, dependable, slightly extra.  
+- **[Linko](https://github.com/HarukaYamamoto0/Linko)** — Lightweight link shortener using multiple providers — practical, fast, minimal fuss.
 
-<!-- ## 😶‍🌫️ My social networks:<div> 
-  <a href="https://youtube.com/channel/UC91TMKN7AAh3XttXx_vpQMA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/users/822819247146663936" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="mailto: antonioalbert344@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div> -->
+> Want to see more? Check the repos for experiments, utilities, and prototypes.
 
-## Some tools I use ⚒️
+## 🛠 Tech & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,bots,jest,kotlin,linux,md,mongodb,nodejs,stackoverflow,vscode,vim,mint,idea,androidstudio)](https://github.com/HarukaYamamoto0?tab=repositories)
+**Languages:** Kotlin · JavaScript · TypeScript · HTML · CSS  
+**Frameworks:** Jetpack Compose · Android · React · Node.js  
+**Tools:** Git · GitHub
 
-## What I'm learning
-[![My Skills](https://skillicons.dev/icons?i=kotlin,ts,materialui,githubactions,neovim,ktor)](https://github.com/HarukaYamamoto0?tab=repositories)
+**TL;DR:** I pick tools that help me ship clean, maintainable code.
 
-## My social networks 🌐
+## 📈 GitHub Stats
 
-<a href="https://www.linkedin.com/in/harukayamamoto0" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</a>
+![HarukaYamamoto0 GitHub stats](https://github-readme-stats.vercel.app/api?username=HarukaYamamoto0&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarukaYamamoto0&layout=compact&theme=radical)  
 
-<a href="https://discord.com/users/822819247146663936" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-</a>
+## 🧪 Leveling Up
 
-<a href="https://www.instagram.com/harukadev/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</a>
+- Crafting mobile apps with Kotlin/Android  
+- Exploring productivity workflows that actually work  
+- Experimenting with UI/UX for web apps  
 
-<a href="mailto:harukayamamotodev@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=ff0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</a>
+## 🎭 A Few Facts
 
-## Todo List 📚
-> I won't necessarily do everything in that order.
+| 💡 Fact | Detail |
+|---------|--------|
+| 🎂 Age | 19 |
+| 🖤 Favorite Stack | Kotlin + Jetpack Compose |
+| 🎮 Hobby | Quick gaming sessions between coding sprints |
+| ☕ Fuel | Coffee (dangerous amounts) |
 
-- [x] Reformulate the Readmes of all my projects (in progress)
-- [x] Linko, a link shortener app
-- [ ] Return to Locart development 
-- [ ] Jesterly, Meme bot for discord
-- [ ] an app like TikTok, but for memes, which will share the same system as Jesterly
-- [ ] try to recreate Lively as cross-platform
-- [ ] Clock Json, a clock app with features you need
-- [ ] Payme, an app that uses the Mercado Pago API
-- [ ] A temporary email service
-- [ ] a cli to generate licenses
-    
-![github contribution grid snake animation](https://raw.githubusercontent.com/HarukaYamamoto0/HarukaYamamoto0/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+## 📫 Contact
+
+- LinkedIn: [harukadev](https://www.linkedin.com/in/harukadev)
+- Discord: [albertthefluent](https://discord.com/users/822819247146663936)
+- Email: [harukayamamotodev@gmail.com](mailto:harukayamamotodev@gmail.com)
+
+> Always open to code chats, design nitpicks, or dark-mode debates.
+
+<p align="center">Thanks for stopping by — explore my repos, open issues, or send a hello. 🚀</p>
