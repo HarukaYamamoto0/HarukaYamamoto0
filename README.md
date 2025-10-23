@@ -23,7 +23,8 @@ Passionate about **Kotlin**, curious about **web apps**, and obsessed with build
 ## 📈 GitHub Stats
 
 ![HarukaYamamoto0 GitHub stats](https://github-readme-stats.vercel.app/api?username=HarukaYamamoto0&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarukaYamamoto0&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarukaYamamoto0&layout=compact&theme=radical)
+[![wakatime](https://wakatime.com/badge/user/88a8cd40-80e8-40d5-95be-ba29a19eda31.svg)](https://wakatime.com/@88a8cd40-80e8-40d5-95be-ba29a19eda31)
 
 ## 🧪 Leveling Up
 
