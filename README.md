@@ -40,7 +40,7 @@ Passionate about **Kotlin**, curious about **web apps**, and obsessed with build
 
 | 💡 Fact | Detail |
 |---------|--------|
-| 🎂 Age | 19 |
+| 🎂 Age | 20 |
 | 🖤 Favorite Stack | Kotlin + Jetpack Compose |
 | 🎮 Hobby | Quick gaming sessions between coding sprints |
 | ☕ Fuel | Coffee (dangerous amounts) |
