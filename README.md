@@ -20,7 +20,7 @@ Passionate about **Kotlin**, curious about **web apps**, and obsessed with build
 
 **TL;DR:** I pick tools that help me ship clean, maintainable code.
 
-## 📈 GitHub Stats
+## 📈 Stats
 
 <div align="center">
    <img src="https://count.getloli.com/@harukadev?theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="view counter">
@@ -32,16 +32,6 @@ Passionate about **Kotlin**, curious about **web apps**, and obsessed with build
 - Crafting mobile apps with Kotlin/Android  
 - Exploring productivity workflows that actually work  
 - Experimenting with UI/UX for web apps  
-
-## 🎭 A Few Facts
-
-| 💡 Fact | Detail |
-|---------|--------|
-| 🎂 Age | 20 |
-| 🖤 Favorite Stack | Kotlin + Jetpack Compose |
-| 🎮 Hobby | Quick gaming sessions between coding sprints |
-| ☕ Fuel | Coffee (dangerous amounts) |
-
 
 ## 📫 Contact
 
