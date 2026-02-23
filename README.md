@@ -6,9 +6,9 @@ Passionate about **Kotlin**, curious about **web apps**, and obsessed with build
 
 ## 🌟 Featured Projects
 
-- **[tabnews-app](https://github.com/HarukaYamamoto0/tabnews-app)** — A faithful TabNews client; used to explore Kotlin Multiplatform and push UI behavior.  
+- **[Attack Shark X11 Driver](https://github.com/HarukaYamamoto0/attack-shark-x11-driver)** — This project is an attempt to reverse engineer the Attack Shark X11 mouse.
 - **[alcyone](https://github.com/HarukaYamamoto0/alcyone)** — My attempt at the Discord bot I always wanted: smart, dependable, slightly extra.  
-- **[Whitelist Caller](https://github.com/HarukaYamamoto0/attack-shark-x11-driver)** — This project is an attempt to reverse engineer the Attack Shark X11 mouse.
+- **[tabnews-app](https://github.com/HarukaYamamoto0/tabnews-app)** — A faithful TabNews client; used to explore Kotlin Multiplatform and push UI behavior.
 
 > Want to see more? Check the repos for experiments, utilities, and prototypes.
 
