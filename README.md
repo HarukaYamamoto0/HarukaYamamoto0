@@ -24,7 +24,6 @@ Passionate about **Kotlin**, curious about **web apps**, and obsessed with build
 
 <div align="center">
    <img src="https://count.getloli.com/@harukadev?theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="view counter">
-   <a href="https://wakatime.com/@88a8cd40-80e8-40d5-95be-ba29a19eda31"><img src="https://wakatime.com/badge/user/88a8cd40-80e8-40d5-95be-ba29a19eda31.svg" alt="Total time coded since Oct 22 2025" /></a>
 </div>
 
 ## 🧪 Leveling Up
