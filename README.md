@@ -15,7 +15,7 @@ Passionate about **Kotlin**, curious about **web apps**, and obsessed with build
 ## 🛠 Tech & Tools
 
 **Languages:** Kotlin · TypeScript · HTML · CSS · Rust · C<br>
-**Frameworks:** Jetpack Compose · Android · React · Node.js · Bun
+**Frameworks:** Jetpack Compose · Android · React · Node.js · Bun<br>
 **Tools:** Git · GitHub
 
 **TL;DR:** I pick tools that help me ship clean, maintainable code.
