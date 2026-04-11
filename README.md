@@ -1,7 +1,7 @@
 # 👋 Hello kind person
 
 I’m **Albert**, but most people online know me as **harukadev** or **HarukaYamamoto0**.  
-I’m a 20-year-old developer who enjoys turning caffeine into code and ideas into software.  
+I’m a 21-year-old developer who enjoys turning caffeine into code and ideas into software.  
 Passionate about **Kotlin**, curious about **web apps**, and obsessed with building tools that make life a little easier (or at least more fun).
 
 ## 🌟 Featured Projects
