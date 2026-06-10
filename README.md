@@ -1,7 +1,4 @@
 <div align="center">
-
-## HarukaYamamoto0
-
 Android developer. occasionally found in a disassembler.
 
 `Kotlin` · `Jetpack Compose` · `TypeScript` · `Rust` · `C`
